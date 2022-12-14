@@ -1,7 +1,7 @@
 ﻿# Conversor de Moedas com Programação Orientada a Objetos
 
 <p align="center">
-  <img src = './img1.png' width = '7000%'>
+  <img src = './img1.png' width = '70%'>
 </p>
 
 ## Descrição do Projeto
