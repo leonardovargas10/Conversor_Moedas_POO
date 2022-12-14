@@ -1,2 +1,2 @@
-﻿# Conversor_Moedas_POO
-<h1 align="center"> Conversor_Moedas_POO </h1>
+﻿# Conversor de Moedas com Programação Orientada a Objetos
+![Conversor de Moedas com POO](img1.png)
