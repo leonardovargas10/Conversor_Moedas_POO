@@ -1,7 +1,8 @@
 ﻿# Conversor de Moedas com Programação Orientada a Objetos
 
-
-![Conversor de Moedas com POO](img1.png)
+<p align="center">
+  <img src = './img1.png' width = '7000%'>
+</p>
 
 ## Descrição do Projeto
 
@@ -24,5 +25,7 @@ Este projeto tem o intuito de ser um Conversor de Moedas Universal. A ideia é o
 ## Referências
 
 [Free Currency API](https://free.currencyconverterapi.com/)
+
+[Trading Economics](https://tradingeconomics.com/country-list/inflation-rate?continent=europe)
 
 [Inspiração](https://www.youtube.com/watch?v=9BwJKlLu9Ug&ab_channel=IuryRosal)
