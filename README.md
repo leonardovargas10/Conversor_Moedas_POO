@@ -5,6 +5,7 @@
 
 ## Descrição do Projeto
 
+Este projeto tem o intuito de ser um Conversor de Moedas Universal. A ideia é o usuário digitar aa quantia da Moeda que possui, obtendo assim a quantia da Moeda desejada de forma instantânea, simples, rápida e gratuita!
 
 ## Status do Projeto
 
