@@ -14,7 +14,6 @@ Este projeto tem o intuito de ser um Conversor de Moedas Universal. A ideia é o
 - [x] Python
 - [x] Consulta a API's
 - [x] Orientação a Objetos
-- [x] Web-Scrapping
 
 ## Status do Projeto
 
