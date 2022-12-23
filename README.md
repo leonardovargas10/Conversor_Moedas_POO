@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de ser um Conversor de Moedas Universal. A ideia é o usuário digitar aa quantia da Moeda que possui, obtendo assim a quantia da Moeda desejada de forma instantânea, simples, rápida e gratuita!
+Este projeto tem o intuito de ser um Conversor de Moedas Universal. A ideia é o usuário digitar a quantia da Moeda que possui, obtendo assim a quantia da Moeda desejada de forma instantânea, simples, rápida e gratuita!
 
 ## Tecnologias Utilizadas
 
@@ -14,12 +14,11 @@ Este projeto tem o intuito de ser um Conversor de Moedas Universal. A ideia é o
 - [x] Python
 - [x] Consulta a API's
 - [x] Orientação a Objetos
-- [x] Web-Scrapping
 
 ## Status do Projeto
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## Referências
